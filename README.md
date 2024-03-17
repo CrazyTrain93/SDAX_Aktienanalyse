@@ -32,7 +32,7 @@ Please make sure you have forked the repo and set up a new virtual environment. 
 
 The added [requirements file](requirements.txt) contains all libraries and dependencies we need to execute the hands-on notebook.
 
-*Note: If there are errors during environment setup, try removing the versions from the failing packages in the requirements file. M1 shizzle.*
+*Note: If there are errors during environment setup, try removing the versions from the failing packages in the requirements file.
 
 ### **`macOS`** type the following commands : 
 
