@@ -5,7 +5,7 @@ This project Aims to enable a free Stock Analysis Sheet for the German SDAX Stoc
 Due to high costs of Financial Data and Financial Data APIs it was necessary for me to implement a fully automated Stock Analysis Dashboard with no cost!
 
 I use it myself for the first Step in the Stock Market Analysis Process.
-Remember that a good Stock Pick needs further Research and Due Diligence after it got picked from the Dashboard! This is no financial Advise. The Project was created to demonstrate some Programming and IT Understanding Skills to future Employees.
+Remember that a good Stock Pick needs further Research and Due Diligence after it got picked from the Dashboard! This is no financial Advise. The Project was created to demonstrate some Programming and IT Understanding Skills to future Employers.
 
 ## Skills and Tools i used for this Project
 - Python Programming
