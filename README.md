@@ -20,8 +20,10 @@ Remember that a good Stock Pick needs further Research and Due Diligence after i
 
 ## Look at the Final Google Sheet Dashboard and the Data Dump Sheet
 
+### Final Result:
 [SDAX_Stock_Analysis_Dashboard](https://docs.google.com/spreadsheets/d/133GuIO_aHu6SBelkRmA2gvcuh4TmS9st-rjIRDFON-k/edit#gid=0)
 
+### My "Database" for storing the Data:
 [SDAX Data Dump Sheet (only Data Store)](https://docs.google.com/spreadsheets/d/19yWEwyOEKP_sS_w2laKwD7uIcrST97LpABUaXEw8tQQ/edit#gid=0)
 
 ![SDAX Stock Analysis Dashboard ](images/Sheet.png)
